@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+
+    <!-- NuGet package metadata -->
+    <PackageId>satish-metron.test_dotnet_deploy</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>satish-metron</Authors>
+    <Company>metron</Company>
+    <Description>A sample console app as a NuGet package</Description>
+    <PackageTags>console, application, dotnet</PackageTags>
+    <RepositoryUrl>https://github.com/satish-metron/test_dotnet_deploy</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>
